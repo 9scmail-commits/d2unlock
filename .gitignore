@@ -1,0 +1,32 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Build and release outputs
+/.build/
+build/
+dist/
+bin/
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.pdb
+*.lib
+*.a
+*.tar.gz
+*.zip
+
+# Runtime output and local configuration
+*.log
+*.tmp
+*.pid
+.env
+.env.*
+!.env.example
+
+# Keep them versioned so a saved revision can be built without regenerating assets.

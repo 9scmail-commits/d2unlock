@@ -1,0 +1,5 @@
+*.sh text eol=lf
+*.py text eol=lf
+*.rgba binary
+*.ttf binary
+*.ico binary
